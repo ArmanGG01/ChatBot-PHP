@@ -22,7 +22,7 @@ halo$                           = Hai;
 
 ^sekarang jam berapa$ |
 ^jam berapa sekarang$ |
-^ini jam berapa$ |
+^ini jam berapa$                = Sekarang jam %jam : %menit;
 ^jam berapa ini$                = Sekarang jam %jam : %menit;
 ^sekarang tanggal berapa$ |
 ^tanggal berapa sekarang$ |
@@ -30,4 +30,4 @@ halo$                           = Hai;
 ^tanggal berapa ini$            = Sekarang tanggal %tanggal;
 
 ^p$ | ^ping$ | ^woi$            = iya;
-^tolong$ | ^bantu$              = Chat @PacarFerdilla Bila Ada Keperluan Penting;
+^tolong$ | ^bantu$              = Chat @ForStyle Bila Ada Keperluan Penting;
